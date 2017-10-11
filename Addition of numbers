@@ -1,0 +1,6 @@
+a=input()
+15
+b=input()
+5
+sum=a+b
+   print("The addition is",sum)
