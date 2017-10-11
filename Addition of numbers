@@ -3,4 +3,4 @@ a=input()
 b=input()
 5
 sum=a+b
-   print("The addition is",sum)
+    print("The addition is",sum)
