@@ -4,4 +4,4 @@ P=sum(list)
 Q=max(list)
    printQ
 R=min(list)
-printR
+   printR
