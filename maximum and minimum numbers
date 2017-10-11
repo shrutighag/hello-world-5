@@ -1,0 +1,7 @@
+list=[10,20,30,40,50]
+P=sum(list)
+   print P
+Q=max(list)
+   printQ
+R=min(list)
+printR
