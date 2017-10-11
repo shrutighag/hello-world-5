@@ -1,0 +1,6 @@
+l=input()
+10
+b=input()
+20
+Area of rectangle=l*b
+print Area of rectangle
