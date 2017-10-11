@@ -3,4 +3,4 @@ l=input()
 b=input()
 20
 Area of rectangle=l*b
-   print Area of rectangle
+    print Area of rectangle
